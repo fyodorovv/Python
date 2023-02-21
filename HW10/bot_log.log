@@ -1,0 +1,20 @@
+INFO:aiogram:Bot: gbhwtestbot [@gbhwtest_bot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:user_id=505114987, takie dela, Mesage = /start, time: Tue Feb 21 19:43:52 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 1, time: Tue Feb 21 19:43:58 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 4, time: Tue Feb 21 19:43:59 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 5, time: Tue Feb 21 19:44:01 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 10+123, time: Tue Feb 21 19:44:05 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 1230, time: Tue Feb 21 19:44:09 2023
+INFO:root:user_id=505114987, takie dela, Mesage = /reset, time: Tue Feb 21 19:44:14 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 10, time: Tue Feb 21 19:44:16 2023
+INFO:root:user_id=505114987, takie dela, Mesage = +, time: Tue Feb 21 19:44:23 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 5, time: Tue Feb 21 19:44:27 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 4, time: Tue Feb 21 19:44:28 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 4, time: Tue Feb 21 19:44:34 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 1, time: Tue Feb 21 19:45:03 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 5, time: Tue Feb 21 19:45:04 2023
+INFO:root:user_id=505114987, takie dela, Mesage = 1, time: Tue Feb 21 19:45:09 2023
+INFO:root:user_id=505114987, takie dela, Mesage = /reset, time: Tue Feb 21 19:45:22 2023
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
